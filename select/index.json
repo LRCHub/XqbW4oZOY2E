@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "コピペパペット / あおぎり高校(official)",
+  "base_artist": "あおぎり高校 - Aogiri Vtuber High School",
+  "createdAt": "2026-03-13T23:56:24.530258Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "コピペパペット",
+      "artist": "あおぎり高校/石狩あかり/我部りえる/春雨麗女/八十科むじな",
+      "has_synced": false,
+      "path": "select/pl_01_コピペパペット_あおぎり高校_石狩あかり_我部りえる_春雨麗女_八十科むじな.txt"
+    }
+  ]
+}
